@@ -1,0 +1,13 @@
+{
+    "switch-language": "Switch to EN",
+    "profile": "Profil",
+    "about-app": "O aplikaci",
+    "yes": "Ano",
+    "no": "Ne",
+    "notes": "Poznámky",
+    "new-note": "Nová poznámka",
+    "edit": "Upravit",
+    "close": "Zavřít",
+    "save": "Uložit",
+    "delete-message": "Opravdu chcete smazat poznámku: '{{title}}'?"
+}

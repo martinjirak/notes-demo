@@ -1,0 +1,13 @@
+{
+    "switch-language": "Přepnout do ČJ",
+    "profile": "Profile",
+    "about-app": "About App",
+    "yes": "Yes",
+    "no": "No",
+    "notes": "Notes",
+    "new-note": "New Note",
+    "edit": "Edit",
+    "close": "Close",
+    "save": "Save",
+    "delete-message": "Are you sure delete Note: '{{title}}'?"
+}
